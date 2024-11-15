@@ -101,7 +101,8 @@ seed_examples:
           reliable, making it ideal for tasks that require precision, repeatability
           and verifiability.
       - question: How can agentic agent systems combine LLMs and traditional programming?
-          Agentic AI systems provide the best of both worlds: using LLMs to handle tasks
+        answer: |
+          Agentic AI systems provide the best of both worlds, using LLMs to handle tasks
           that benefit from flexibility and dynamic responses, while combining these AI
           capabilities with traditional programming for strict rules, logic and performance.
   - context: |
@@ -166,14 +167,13 @@ seed_examples:
     questions_and_answers:
       - question: How could and agentic AI manage a marketing campaign?
         answer: |
-          Agentic AI could manage a marketing campaign by continuously monitoring performance, 
+          Agentic AI could manage a marketing campaign by continuously monitoring performance,
           adjusting strategies and optimizing results based on feedback without the need for
           human input at every step.
       - question: What could agentic AI do in healthcare?
         answer: |
           AI agents could monitor patient data, adjust treatment recommendations
           based on new test results and provide real-time feedback to clinicians.
-      based on new test results and provide real-time feedback to clinicians.
       - question: What could agentic AI do for cybersecurity?
         answer: |
           In cybersecurity, agents can continuously monitor network traffic, system logs
@@ -216,7 +216,7 @@ seed_examples:
       - question: How could agentic AI assist with tht tracking of projects?
         answer: |
           The user could query for information by directy asking in in plain human language.
-      only had to ask for the information he or she needs in plain human language
+          only had to ask for the information he or she needs in plain human language
       - question: What is an example of how agentic AI could speed up the generation of a presentation?
         answer: |
           If you were making a presentation slide that displays 5 bar graphs
